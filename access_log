@@ -1,0 +1,10 @@
+192.168.189.1:1707 - - "GET / HTTP/1.1" 200 884
+192.168.189.1:1707 - - "GET /style.css HTTP/1.1" 200 383
+192.168.189.1:1707 - - "GET /images/liso_header.png HTTP/1.1" 200 17515
+192.168.189.1:1708 - - "GET /favicon.ico HTTP/1.1" 404 26
+192.168.189.1:1712 - - "GET /Login.html HTTP/1.1" 200 610
+192.168.189.1:1712 - - "GET /Login.css HTTP/1.1" 200 1457
+192.168.189.1:1035 - - "GET /Login.html HTTP/1.1" 200 610
+192.168.189.1:1035 - - "GET /Login.css HTTP/1.1" 200 1457
+192.168.189.1:1035 - - "GET /Login.html?username=dcb&passwd=3020244312 HTTP/1.1" 302 105
+192.168.189.1:1035 - - "GET /welcome.html HTTP/1.1" 200 145
